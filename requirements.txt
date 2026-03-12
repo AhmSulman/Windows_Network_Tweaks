@@ -1,0 +1,5 @@
+# Encrypt_Adapters – used by mainc.py
+# Optional: MAC address parsing/validation
+netaddr>=0.10.1
+# Required for transport encryption (Fernet, PBKDF2, hashes)
+cryptography>=42.0.0

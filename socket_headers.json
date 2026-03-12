@@ -1,0 +1,357 @@
+{
+  "TimestampUtc": "2026-02-14T21:06:45.5322544Z",
+  "MachineName": "AHM",
+  "ConnectionCount": 50,
+  "Connections": [
+    {
+      "LocalEndPoint": "0.0.0.0:135",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 1660,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:445",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4,
+      "ProcessName": "System"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:895",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4796,
+      "ProcessName": "cmw_srv"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:5040",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 8728,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:7680",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 3608,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49664",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 1364,
+      "ProcessName": "lsass"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49665",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 1196,
+      "ProcessName": "wininit"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49666",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 944,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49667",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 3032,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49668",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4312,
+      "ProcessName": "spoolsv"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49670",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 1316,
+      "ProcessName": "services"
+    },
+    {
+      "LocalEndPoint": "0.0.0.0:49682",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4764,
+      "ProcessName": "ControlServer"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:139",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4,
+      "ProcessName": "System"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:49423",
+      "RemoteEndPoint": "4.213.25.240:443",
+      "State": "ESTABLISHED",
+      "Pid": 5176,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50908",
+      "RemoteEndPoint": "104.18.18.125:443",
+      "State": "ESTABLISHED",
+      "Pid": 21000,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50909",
+      "RemoteEndPoint": "104.18.18.125:443",
+      "State": "ESTABLISHED",
+      "Pid": 11688,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50922",
+      "RemoteEndPoint": "54.221.196.160:443",
+      "State": "ESTABLISHED",
+      "Pid": 11688,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50923",
+      "RemoteEndPoint": "54.221.196.160:443",
+      "State": "ESTABLISHED",
+      "Pid": 21000,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50959",
+      "RemoteEndPoint": "20.189.173.15:443",
+      "State": "ESTABLISHED",
+      "Pid": 9220,
+      "ProcessName": "setup"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50969",
+      "RemoteEndPoint": "3.208.69.93:443",
+      "State": "ESTABLISHED",
+      "Pid": 11688,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:50992",
+      "RemoteEndPoint": "98.70.192.224:443",
+      "State": "ESTABLISHED",
+      "Pid": 8388,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:51027",
+      "RemoteEndPoint": "104.18.19.125:443",
+      "State": "ESTABLISHED",
+      "Pid": 21000,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:51032",
+      "RemoteEndPoint": "98.70.192.224:443",
+      "State": "ESTABLISHED",
+      "Pid": 8388,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:51034",
+      "RemoteEndPoint": "20.204.214.53:443",
+      "State": "ESTABLISHED",
+      "Pid": 23832,
+      "ProcessName": "taskhostw"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:51040",
+      "RemoteEndPoint": "100.50.252.46:443",
+      "State": "SYN_SENT",
+      "Pid": 21000,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "10.28.99.216:51041",
+      "RemoteEndPoint": "100.50.252.46:443",
+      "State": "SYN_SENT",
+      "Pid": 11688,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:896",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4796,
+      "ProcessName": "cmw_srv"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:1001",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4,
+      "ProcessName": "System"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:20371",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4796,
+      "ProcessName": "cmw_srv"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:49680",
+      "RemoteEndPoint": "127.0.0.1:49681",
+      "State": "ESTABLISHED",
+      "Pid": 1768,
+      "ProcessName": "WUDFHost"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:49681",
+      "RemoteEndPoint": "127.0.0.1:49680",
+      "State": "ESTABLISHED",
+      "Pid": 1768,
+      "ProcessName": "WUDFHost"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:49683",
+      "RemoteEndPoint": "127.0.0.1:49684",
+      "State": "ESTABLISHED",
+      "Pid": 2988,
+      "ProcessName": "NVDisplay.Container"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:49684",
+      "RemoteEndPoint": "127.0.0.1:49683",
+      "State": "ESTABLISHED",
+      "Pid": 2988,
+      "ProcessName": "NVDisplay.Container"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:49685",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 9160,
+      "ProcessName": "explorer"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:60093",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 21000,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:60094",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 11688,
+      "ProcessName": "Cursor"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:60230",
+      "RemoteEndPoint": "127.0.0.1:60231",
+      "State": "ESTABLISHED",
+      "Pid": 25228,
+      "ProcessName": "python"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:60231",
+      "RemoteEndPoint": "127.0.0.1:60230",
+      "State": "ESTABLISHED",
+      "Pid": 25228,
+      "ProcessName": "python"
+    },
+    {
+      "LocalEndPoint": "127.0.0.1:62782",
+      "RemoteEndPoint": "0.0.0.0:0",
+      "State": "LISTENING",
+      "Pid": 4796,
+      "ProcessName": "cmw_srv"
+    },
+    {
+      "LocalEndPoint": "[::]:135",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 1660,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "[::]:445",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 4,
+      "ProcessName": "System"
+    },
+    {
+      "LocalEndPoint": "[::]:7680",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 3608,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "[::]:49664",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 1364,
+      "ProcessName": "lsass"
+    },
+    {
+      "LocalEndPoint": "[::]:49665",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 1196,
+      "ProcessName": "wininit"
+    },
+    {
+      "LocalEndPoint": "[::]:49666",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 944,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "[::]:49667",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 3032,
+      "ProcessName": "svchost"
+    },
+    {
+      "LocalEndPoint": "[::]:49668",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 4312,
+      "ProcessName": "spoolsv"
+    },
+    {
+      "LocalEndPoint": "[::]:49670",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 1316,
+      "ProcessName": "services"
+    },
+    {
+      "LocalEndPoint": "[::1]:42050",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 16808,
+      "ProcessName": "OneDrive.Sync.Service"
+    },
+    {
+      "LocalEndPoint": "[::1]:49669",
+      "RemoteEndPoint": "[::]:0",
+      "State": "LISTENING",
+      "Pid": 4964,
+      "ProcessName": "jhi_service"
+    }
+  ]
+}
